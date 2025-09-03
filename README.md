@@ -63,6 +63,9 @@ It manages **books, categories, members, and issued/returned records**, with sup
 ## ▶️ How to Run  
 
 Clone this repository
+
 Import create.sql into MySQL
+
 Import insert.sql
+
 Run queries from select.sql
